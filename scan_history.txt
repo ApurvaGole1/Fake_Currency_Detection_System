@@ -1,0 +1,11 @@
+Denom.   Image Name           Status Serial Number   ML Pred    ML Conf  CNN Pred   CNN Conf Lines
+==================================================================================================
+₹500     500_s4.jpg           Real   6MT 090680,     Real       98.00    Real       98.29    7    
+₹500     500_s10.jpg          Fake   Fake Serial Number Fake       85.00    Fake       50.97    12   
+₹500     500_f1.jpg           Real   5KA 903804,     Real       79.50    Real       96.88    16   
+₹500     500_f4.jpg           Real   3RT 336048Real, Real       72.00    Real       85.66    6    
+₹200     500_f9.jpg           Fake   Fake Serial Number Fake       86.00    Fake       99.89    2    
+₹200     500_f8.jpg           Fake   Fake Serial Number Fake       80.50    Fake       99.37    2    
+₹500     500_f2.jpg           Fake   Fake Serial Number Fake       61.50    Fake       95.38    6    
+₹500     500_f4.jpg           Real   3RT 336048Real, Real       72.00    Real       85.66    6    
+₹500     500_s2.jpg           Fake   Fake Serial Number Fake       74.00    Fake       91.92    7    
